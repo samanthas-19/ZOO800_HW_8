@@ -2,7 +2,7 @@
 
 ## HW 13
 ##I was still a bit confused about some of the linear regression methods since I had to miss class to travel 
-##(but  watched the recorded lecture) so i used chatgpt to explain a bit more and clean up the code
+##so i used chatgpt to explain a bit more and clean up the code
 ##I am going back to read a gain to see if that helps
 
 ###--------------------------------Objective 1---------------------------###
